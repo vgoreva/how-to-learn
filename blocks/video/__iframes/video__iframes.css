@@ -1,0 +1,7 @@
+.video__iframes{
+    margin: auto;
+    margin-top: 50px;
+    max-width:1050px;
+    max-height: 316px;
+    overflow: visible;
+}
